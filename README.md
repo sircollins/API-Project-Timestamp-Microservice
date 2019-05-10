@@ -6,7 +6,7 @@ Checkout the live [example](http://tundra-sled.glitch.me/).
 
 ### If Python 2 is your default
 ```console
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt 
 ```
 
 ### If Python 3 is your default
